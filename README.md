@@ -1,9 +1,19 @@
-## Hi there 👋
+## Olá, eu sou o Thiago 👋
 
+🎓 EDUCAÇÃO:
+- Me formei no ensino médio no Colégio Estadual Emílio de Menezes em 2014.
+- Atualmente estou cursando Ciência da Computação na UniFil.
+
+💼 TRABALHO:
+- Trabalhei 5 anos e meio em uma loja de material de construção como atendente, adquirindo experiência de comunicação e socialização com clientes, assim como organização e controle de estoque.
+- Trabalhei 9 meses como assistente em um escritório de advocacia, adquirindo experiência em organização e gerenciamento de documentos.
+
+⚡ SOBRE MIM:
+- Desde criança tenho interesse em jogos e tecnologia, semprei passei muito tempo mexendo e navegando em computadores. Tenho paixão pela área e vontade de aprender cada vez mais.
 <!--
 **thiagogoldin/thiagogoldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
