@@ -2,7 +2,7 @@
 
 🎓 EDUCAÇÃO:
 - Me formei no ensino médio pelo Colégio Estadual Emílio de Menezes em 2014.
-- Atualmente estou cursando Ciência da Computação pela UniFil.
+- Atualmente estou cursando Ciência da Computação pela UniFil Londrina.
 
 💼 TRABALHO:
 - Trabalhei 5 anos e meio em uma loja de material de construção como atendente, adquirindo experiência de comunicação e socialização com clientes, assim como organização e controle de estoque.
