@@ -1,7 +1,7 @@
 ## Olá, eu sou o Thiago 👋
 
 🎓 EDUCAÇÃO:
-- Me formei no ensino médio no Colégio Estadual Emílio de Menezes em 2014.
+- Me formei no ensino médio pelo Colégio Estadual Emílio de Menezes em 2014.
 - Atualmente estou cursando Ciência da Computação na UniFil.
 
 💼 TRABALHO:
